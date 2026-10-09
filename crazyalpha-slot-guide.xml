@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>크레이지 알파 슬­롯</title>
+    <link>https://crazyalpha-podcast.github.io/</link>
+    <description>슬롯 관련 광고와 후기의 주장을 사실로 오인하지 않도록 돕는 피해 예방 안내입니다. 수익이나 당첨을 보장한다는 표현, 근거 없는 경험담, 광고 관계가 불분명한 추천 문구를 비판적으로 읽는 것을 주제로 삼습니다. 게임 이용이나 베팅을 권유하지 않습니다. 현재 공개된 음원은 기존에 사용한 약 33초의 야구 BGM이며, 위 주제를 설명하는 음성 해설이 아닙니다. 이 안내 문구와 음악은 구분해 제공합니다.</description>
+    <language>ko</language>
+    <lastBuildDate>Fri, 09 Oct 2026 06:43:46 GMT</lastBuildDate>
+    <atom:link href="https://crazyalpha-podcast.github.io/crazyalpha-slot-guide.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>크레이지 알파 슬롯</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>크레이지알파</itunes:name>
+      <itunes:email>lethihoa08031973@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://crazyalpha-podcast.github.io/cover.jpg" />
+    <itunes:category text="Music" />
+    <image>
+      <url>https://crazyalpha-podcast.github.io/cover.jpg</url>
+      <title>크레이지 알파 슬­롯</title>
+      <link>https://crazyalpha-podcast.github.io/</link>
+    </image>
+    <item>
+      <title>크레이지 알파 슬롯 · 야구 BGM</title>
+      <description>약 33초의 야구 BGM입니다. 기존 음악 파일을 사용한 회차이며, 새로운 녹음이나 피해 예방 음성 강의는 포함하지 않습니다. 슬롯 관련 광고와 후기의 주장을 사실로 오인하지 않도록 돕는 피해 예방 안내입니다. 수익이나 당첨을 보장한다는 표현, 근거 없는 경험담, 광고 관계가 불분명한 추천 문구를 비판적으로 읽는 것을 주제로 삼습니다. 게임 이용이나 베팅을 권유하지 않습니다.</description>
+      <link>https://crazyalpha-podcast.github.io/crazyalpha-slot-guide.xml</link>
+      <pubDate>Fri, 09 Oct 2026 06:43:46 GMT</pubDate>
+      <guid isPermaLink="false">additional-20261009-crazyalpha-slot-guide-bgm-001</guid>
+      <enclosure url="https://crazyalpha-podcast.github.io/episode-001-baseball-bgm.mp3" length="780588" type="audio/mpeg" />
+      <itunes:duration>00:00:33</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
