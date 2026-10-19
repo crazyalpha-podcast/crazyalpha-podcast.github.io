@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>크레이지알파 | ssss-crz | 바카라사이트</title>
+    <title>크레이지알파 | ssss-crz | 바카라</title>
     <link>https://crazyalpha-podcast.github.io/</link>
-    <description>크레이지알파는 ssss-crz 이름으로 선보이는 음악 팟캐스트입니다. 짧은 BGM 에피소드를 들을 수 있으며, 방송 홈페이지에서는 바카라사이트 관련 소개 문구와 이용 조건을 읽는 방법을 별도의 글로 정리합니다. 정보의 작성 날짜, 원문 출처, 조건의 적용 범위를 확인하는 데 초점을 맞춥니다. 음악과 읽을거리는 별도 콘텐츠로 제공하며 특정 서비스의 신뢰성이나 수익을 보증하지 않습니다.</description>
+    <description>크레이지알파는 ssss-crz라는 이름과 함께 바카라 관련 소개 글과 공지를 차분히 읽는 기준을 정리합니다. 짧은 홍보 문구에 담긴 주장, 실제로 제시된 자료, 조건이 적용되는 범위를 구분하는 데 초점을 맞춥니다. 게시 날짜와 원문 출처를 확인하고, 확인되지 않은 설명은 단정하지 않는 것이 크레이지알파의 기록 원칙입니다. 특정 서비스의 이용이나 베팅을 권하지 않으며 안전성이나 수익을 보장하지 않습니다. 팟캐스트의 첫 회차는 짧은 연주 음원이고, 관련 읽을거리는 별도의 텍스트로 제공합니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:48:43 GMT</lastBuildDate>
     <atom:link href="https://crazyalpha-podcast.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>크레이지알파 · ssss-crz</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -18,12 +18,12 @@
     <itunes:category text="Music" />
     <image>
       <url>https://crazyalpha-podcast.github.io/cover.jpg</url>
-      <title>크레이지알파 | ssss-crz | 바카라사이트</title>
+      <title>크레이지알파 | ssss-crz | 바카라</title>
       <link>https://crazyalpha-podcast.github.io/</link>
     </image>
     <item>
-      <title>1화 · 크레이지알파 — 야구 BGM</title>
-      <description>크레이지알파의 첫 음악 에피소드입니다. 약 33초 길이의 야구 BGM을 들을 수 있습니다. 이 회차는 음악 음원이며 경기 중계나 바카라 해설을 포함하지 않습니다. ssss-crz와 바카라사이트 관련 정보를 읽는 기준은 방송 홈페이지의 별도 읽을거리에서 확인할 수 있습니다.</description>
+      <title>크레이지알파 · ssss-crz 첫 연주</title>
+      <description>크레이지알파의 시작을 알리는 약 33초 분량의 연주입니다. ssss-crz로 구분한 이 회차에는 대화나 바카라 해설이 포함되어 있지 않습니다. 바카라 관련 안내 문구의 출처와 조건을 살피는 내용은 방송 소개의 읽을거리와 구분해 제공합니다. 기존에 공개한 음악 파일을 그대로 사용한 회차입니다.</description>
       <link>https://crazyalpha-podcast.github.io/#episode-001</link>
       <pubDate>Tue, 06 Oct 2026 04:32:49 GMT</pubDate>
       <guid isPermaLink="false">crazyalpha-podcast-episode-001-baseball-bgm</guid>
